@@ -1,4 +1,4 @@
-# master_thesis
-Scripts for master thesis
+# Reading Bitcoin Blockchain Data
 
-Bitcoin Blockchain Analysis using Apache Spark and (insert algorithm) for location tagging of Bitcoin transactions.
+
+Bitcoin Blockchain Reader. Work in progress and can parse p2pkh (pay 2 pubkey hash) and p2pk (pay 2 pubkey) transactions.
